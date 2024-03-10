@@ -1,6 +1,6 @@
+<img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/514cab88-3e3f-43fb-b9f5-f85f72c48216" width="300" height="200" alt="Image Description">
 
-<img src="![Screenshot_20240310-213144](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/514cab88-3e3f-43fb-b9f5-f85f72c48216)" width="300" height="200" alt="Image Description">
-
+![Screenshot_20240310-213144](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/514cab88-3e3f-43fb-b9f5-f85f72c48216)
 ![Screenshot_20240310-212600](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/a690ceb5-f103-4ae9-a84c-9e34523b95de)
 ![Screenshot_20240310-212624](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/336d3172-fb0d-4db4-a258-a6c501103559)
 ![Screenshot_20240310-213316](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/3583d876-050c-4e9f-949f-62da40c360ce)
