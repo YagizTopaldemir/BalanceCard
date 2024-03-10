@@ -1,7 +1,7 @@
 
 <div style="display: flex;">
   <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/514cab88-3e3f-43fb-b9f5-f85f72c48216" width="300" height="650" alt="Image Description">
-  <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/514cab88-3e3f-43fb-b9f5-f85f72c48216" width="300" height="650" alt="Image Description">
+  <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/a690ceb5-f103-4ae9-a84c-9e34523b95de" width="300" height="650" alt="Image Description">
 </div>
 
 ![Screenshot_20240310-212600](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/a690ceb5-f103-4ae9-a84c-9e34523b95de)
