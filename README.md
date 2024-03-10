@@ -9,7 +9,11 @@
   <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/fb8c884f-e165-4943-bde3-14c147aa6716" width="300" height="650" alt="">
     <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/5dc9b0ae-767c-40ed-a1fc-54aaaba03df8" width="300" height="650" alt="">
 </div>
+<div style="display: flex;">
+  <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/38560b9a-796b-43a0-873c-0c83686e6785" width="300" height="650" alt="">
+  <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/93ee5d0d-e0ec-403c-b151-3230780af417" width="300" height="650" alt="">
+    <img src="https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/1ee5bd95-c28d-4cbb-9994-51df58db49af" width="300" height="650" alt="">
+</div>
 
 
-![Screenshot_20240310-212650](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/38560b9a-796b-43a0-873c-0c83686e6785)
-![Screenshot_20240310-213146](https://github.com/YagizTopaldemir/BalanceCard/assets/159691508/93ee5d0d-e0ec-403c-b151-3230780af417)
+
